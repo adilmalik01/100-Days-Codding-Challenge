@@ -5,10 +5,7 @@
 
 
 ////////////////////////////////////////////      ANSWER  //////////////////////////////////////////
-// console.log('Quaid e Azam once said, “I do not believe in taking the right decision, I take a decision and make it right.”');
-
-
-
+console.log('Quaid e Azam once said, “I do not believe in taking the right decision, I take a decision and make it right.”');
 
 
 ////////////////////////////////////////////    QUESTION 5  //////////////////////////////////////////
@@ -16,12 +13,10 @@
 
 
 ////////////////////////////////////////////      ANSWER  //////////////////////////////////////////
-// let personName: String = "Quaid e Azam" 
-// let quote: String = " “I do not believe in taking the right decision, I take a decision and make it right.”"
-// let famousQuote: String = `${personName},Once Said${quote}` 
-// console.log(famousQuote);
-
-
+let qoutePersonName: String = "Quaid e Azam" 
+let quote: String = " “I do not believe in taking the right decision, I take a decision and make it right.”"
+let famousQuote: String = `${qoutePersonName},Once Said${quote}` 
+console.log(famousQuote);
 
 
 ////////////////////////////////////////////    QUESTION 6  //////////////////////////////////////////
@@ -29,6 +24,6 @@
 
 
 ////////////////////////////////////////////      ANSWER  //////////////////////////////////////////
-// let personName: string = "Muhammad Adil"
-// console.log("with WhiteSpace Name :", `\t\t\t${personName}`);
-// console.log("Remove WhiteSpace in Name :", `${personName.trim()}`);
+let personName: string = "Muhammad Adil"
+console.log("with WhiteSpace Name :", `\t\t\t${personName}`);
+console.log("Remove WhiteSpace in Name :", `${personName.trim()}`);
