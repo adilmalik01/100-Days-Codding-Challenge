@@ -21,7 +21,7 @@ show_magicain(magician)
 console.log("\nModified Names Magicians");
 show_magicain(modified_Array)
 
-////////////////////////////////////////////    QUESTION 43  //////////////////////////////////////////
+////////////////////////////////////////////    QUESTION 44  //////////////////////////////////////////
 // Question 44: Sandwiches: Summarize sandwich orders with varying ingredients.
 // Explain & TIP: Utilizing rest parameters allows functions to accept an indefinite number of arguments, useful for handling lists of data like sandwich ingredients.
 ////////////////////////////////////////////     ANSWER  //////////////////////////////////////////
@@ -33,7 +33,7 @@ make_sandwich("ham", "cheese");
 make_sandwich("turkey", "lettuce", "tomato");
 make_sandwich("avocado", "sprouts", "mustard", "mayo");
 
-////////////////////////////////////////////    QUESTION 43  //////////////////////////////////////////
+////////////////////////////////////////////    QUESTION 45  //////////////////////////////////////////
 // Question 45: Cars: Create detailed car objects with flexible properties.
 // Explain & TIP: Functions accepting a mix of fixed and arbitrary parameters let you create detailed and flexible objects. This is ideal for data with a few required fields and many optional fields.
 ////////////////////////////////////////////     ANSWER  //////////////////////////////////////////
